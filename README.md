@@ -22,7 +22,7 @@ Please click [here](https://public.tableau.com/app/profile/winnie.nguyenn/viz/RF
 ```
 | - RFM_Analysis
 |   -- dashboard                                        Contains detailed description and link to dashboard
-|      --- Dashboard Details.rmd
+|      --- Dashboard Details.md
 |   -- dataset                                  
 |      --- Ecom_cleaned_Data.xlsx                       Contains cleaned data 
 |      --- Pakistan Largest Ecommerce Dataset.csv       Original dataset
