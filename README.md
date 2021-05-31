@@ -13,8 +13,11 @@ This data visualization dashboard analyzes valuable customers shopping behaviors
 
 Understanding customers' shopping behaviors thoroughly can provide significant leverage for companies in the era of online shopping boom. By studying the data from March 2016 to August 2018, this analysis aims to identify different group of valuable customers, using **Recency - Frequency - Monetary** method, which can provide insights for business strategy planning. This micro-scoped analysis focuses on segmenting only very valuable customers, whose Monetary and Frequency scores are greater than 3 (on a scale of 1 to 5), due to their significant contribution to the total revenue (35%) despite making up of less than 7% of total number of customers. 
 
-The dashboard has three main sections, divided horizontally so users can follow easily. More details about the dashboard design can be found in [this document](https://github.com/unguyen14/RFM_Analysis/blob/main/dashboard/Dashboard%20Details.rmd).
+The dashboard has three main sections, divided horizontally so users can follow easily. More details about the dashboard design can be found in [this document](https://github.com/unguyen14/RFM_Analysis/blob/main/dashboard/Dashboard%20Details.rmd). 
 
+## Link to dashboard
+Please click [here](https://public.tableau.com/app/profile/winnie.nguyenn/viz/RFMAnalysis-Ecommerce/Dashboard2) to see the interactive version on Tableau.
+ 
 ## Project Directory
 ```
 | - RFM_Analysis
